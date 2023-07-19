@@ -1,6 +1,6 @@
 package com.example
 
-//                       Lv2
+//                       Lv2 입니다
 
 fun main() {
     println("첫번째 숫자를 입력하세요")
